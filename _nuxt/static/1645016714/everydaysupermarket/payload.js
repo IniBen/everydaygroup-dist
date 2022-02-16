@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/everydaysupermarket", {data:[{}],fetch:{},mutations:void 0});
